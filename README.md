@@ -1,0 +1,11 @@
+# Cyber-Jobs
+Chrome Extension that loads new jobs using the hacker news api
+
+### Steps to use this
+- Download this Application [folder]
+- Open Chrome and go to extensions
+  * Go to ```More Tools > Extensions```
+- Turn on the Developer Mode
+- Click on the ```Load unpacked``` Button and Choose the folder that you have downloaded
+- You will find a application icon . click that and pin the extension
+- You are Ready to use it now
